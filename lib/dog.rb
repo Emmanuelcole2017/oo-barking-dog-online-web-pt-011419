@@ -10,4 +10,8 @@ class Dog
   def name
     @this_dogs_name
   end
+  
+  #is able to bark
+  def bark
+    
 end
