@@ -3,5 +3,6 @@
 #Dog instantiate a new dog
 class Dog
   #Dog has a name
-  def name=()
+  def name=(dog_name)
+    
 end
