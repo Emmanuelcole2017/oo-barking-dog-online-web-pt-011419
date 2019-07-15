@@ -13,5 +13,5 @@ class Dog
   
   #is able to bark
   def bark
-    
+  end
 end
