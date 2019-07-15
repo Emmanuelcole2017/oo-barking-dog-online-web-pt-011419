@@ -13,5 +13,6 @@ class Dog
   
   #is able to bark
   def bark
+    puts "woof!"
   end
 end
